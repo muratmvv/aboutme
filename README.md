@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muratmvv" alt="muratmvv" /></a> </p>
 
-- 🔭 I’m currently working on **React.js,Angular,Node.js,JavaScript,React Native,TypeScript and Flutter**
+- 🔭 I’m currently working on **React.js,Angular,Node.js,JavaScript,React Native,TypeScript**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **Coding**
 
